@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juan Ca Priego Jiménez
 ==============================================================================================================================================
 
-Biomedical engineer & programmer
+Biomedical engineer & Data Scientist
 --------------------------------
 
-I started my career passionate about prototyping in the medical field and found the joy in adding logic and nice to have achievements to each of my projects using coding. I'm passionate of how programming can transform every idea into an amazing tool!
+I started my career passionate about prototyping in the medical field and  along the way found the joy of adding code to the medical world to each of my projects. I'm passionate to learn new technologies and frameworks to work with and transforming every idea into an amazing tool!
 
 * 🌍  I'm based in México City
 * ✉️  You can contact me at [juancarlos.priegoj@gmail.com](mailto:juancarlos.priegoj@gmail.com)
-* 🧠  I'm learning React, Tensorflow, Cloud Computing and LLM
-* 🤝  I'm open to collaborating on AI projects!!
+* 🧠  I'm currently learning data pipeline design, Pytorch, Cloud Computing and LLM
+* 🤝  I'm open to collaborating on RPA and data science projects!!
 * ⚡  I have a dog named Harley
 
 ### Skills
