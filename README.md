@@ -6,7 +6,7 @@ My name is Juan Carlos Priego Jiménez
 Biomedical engineer & Data Scientist
 --------------------------------
 
-I started my career passionate about prototyping in the medical field and  along the way found the joy of adding code to the medical world to each of my projects. I'm passionate to learn new technologies and frameworks to work with and transforming every idea into an amazing tool!
+I started my career passionate about prototyping in the medical field and along the way found the joy of adding code to each of my projects. I'm eager to learn new technologies and frameworks to work with and transform every idea into an amazing tool!
 
 * 🌍  I'm based in México City
 * ✉️  You can contact me at [juancarlos.priegoj@gmail.com](mailto:juancarlos.priegoj@gmail.com)
